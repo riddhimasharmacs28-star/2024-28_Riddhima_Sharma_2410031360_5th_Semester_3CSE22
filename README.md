@@ -95,13 +95,7 @@ The experience also contributed to the development of problem-solving, analytica
 Wheeltrix-Internship/
 ├── README.md
 └── Wheeltrix_completion_certificate.png
-
-If additional genuine internship materials become available, they may be added using clear filenames, such as:
-
-├── internship_offer_letter.pdf
-├── internship_report.docx
-├── sentiment_analysis_movie_reviews/
-└── supporting_documents.pdf
+```
 
 Only genuine documents and project materials should be added to the repository. Personal information should be removed or protected before making the repository public.
 
