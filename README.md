@@ -1,4 +1,4 @@
-# 2024-28_Riddhima_Sharma_2410031360_5th_Semester_3CSE22
+# Wheeltrix Data Science and Analyst Internship
 Internship Portfolio
 
 This repository documents Riddhima Sharma’s internship experience as a Data Analyst Intern at Wheeltrix. It is intended to provide a concise academic and professional record of the internship, including student information, the organization, internship role, project work, completion credential, and supporting documentation.
