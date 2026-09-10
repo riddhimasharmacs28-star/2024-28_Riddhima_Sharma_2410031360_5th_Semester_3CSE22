@@ -91,6 +91,7 @@ The experience also contributed to the development of problem-solving, analytica
 
 ## Repository Contents
 
+```text
 Wheeltrix-Internship/
 ├── README.md
 └── Wheeltrix_completion_certificate.png
