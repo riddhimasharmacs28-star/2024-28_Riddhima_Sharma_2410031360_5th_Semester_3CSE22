@@ -24,34 +24,25 @@ This repository contains internship documentation for academic and portfolio pur
 ## About Wheeltrix
 
 Wheeltrix is a growing Ed-Tech startup that develops intelligent digital solutions using AI, automation, and cloud technologies. The company focuses on delivering innovative, scalable, and secure software solutions tailored to client needs.
-
 Wheeltrix aims to bring innovative ideas to life by developing technology-driven solutions that address specific business and user requirements.
 
-Internship Role
+## Internship Role
 
 As a Data Analyst Intern, the internship provided practical exposure to data analysis and the application of analytical techniques to real-world datasets.
-
 During the internship, I worked on a Sentiment Analysis on Movie Reviews project, which involved working with movie-review data and applying data analysis and sentiment-analysis concepts to derive meaningful insights.
-
 The internship experience helped strengthen the following professional and technical qualities:
 
-Data analysis and interpretation.
+- Data analysis and interpretation.
+- Understanding of sentiment analysis concepts.
+- Working with and organizing datasets.
+- Analytical and problem-solving skills.
+- Structured approach to technical tasks.
+- Professional communication and documentation.
+- Independent learning and task management.
 
-Understanding of sentiment analysis concepts.
+## Internship Project
 
-Working with and organizing datasets.
-
-Analytical and problem-solving skills.
-
-Structured approach to technical tasks.
-
-Professional communication and documentation.
-
-Independent learning and task management.
-
-Internship Project
-
-Sentiment Analysis on Movie Reviews
+### Sentiment Analysis on Movie Reviews
 
 The primary project completed during the internship was Sentiment Analysis on Movie Reviews.
 
@@ -59,17 +50,13 @@ The project focused on analyzing movie-review text and determining the sentiment
 
 The project contributed to my understanding of:
 
-Text-based data analysis.
+- Text-based data analysis.
+- Sentiment classification.
+- Data preprocessing concepts.
+- Extracting insights from review data.
+- Applying analytical thinking to real-world datasets.
 
-Sentiment classification.
-
-Data preprocessing concepts.
-
-Extracting insights from review data.
-
-Applying analytical thinking to real-world datasets.
-
-Internship Information
+## Internship Information
 
 Item
 
