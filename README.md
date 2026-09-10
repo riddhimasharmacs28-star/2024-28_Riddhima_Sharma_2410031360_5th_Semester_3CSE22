@@ -5,55 +5,21 @@ This repository documents Riddhima Sharma’s internship experience as a Data An
 
 This repository contains internship documentation for academic and portfolio purposes. Any official credential included here should be treated as an organization-issued document and should not be edited or represented inaccurately.
 
-Student Details
+## Student Details
 
-Field
-
-Details
-
-Student Name
-
-Riddhima Sharma
-
-Roll Number
-
-2410031360
-
-Programme
-
-B.Tech CSE (AI/ML)
-
-Year and Semester
-
-3rd Year, 5th Semester
-
-Section
-
-3CSE22
-
-Batch
-
-2026–27
-
-University
-
-IILM University, Greater Noida
-
-Internship Type
-
-Internship
-
-Internship Role
-
-Data Analyst Intern
-
-Organization
-
-Wheeltrix
-
-Duration
-
-27 June 2026 – 27 July 2026
+| Field | Details |
+|---|---|
+| Student Name | **Riddhima Sharma** |
+| Roll Number | **2410031360** |
+| Programme | **B.Tech CSE (AI/ML)** |
+| Year and Semester | **3rd Year, 5th Semester** |
+| Section | **3CSE22** |
+| Batch | **2026–27** |
+| University | **IILM University, Greater Noida** |
+| Internship Type | **Internship** |
+| Internship Role | **Data Analyst Intern** |
+| Organization | **Wheeltrix** |
+| Duration | **27 June 2026 – 27 July 2026** |
 
 About Wheeltrix
 
