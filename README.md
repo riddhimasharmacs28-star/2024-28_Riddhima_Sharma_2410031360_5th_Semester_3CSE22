@@ -96,7 +96,15 @@ Wheeltrix-Internship/
 ├── README.md
 └── Wheeltrix_completion_certificate.png
 ```
-
+```text
+Wheeltrix-Internship/
+├── README.md
+├── Wheeltrix_completion_certificate.png
+├── internship_offer_letter.pdf
+├── internship_report.docx
+├── sentiment_analysis_movie_reviews/
+└── supporting_documents.pdf
+```
 Only genuine documents and project materials should be added to the repository. Personal information should be removed or protected before making the repository public.
 
 ## Academic Relevance
