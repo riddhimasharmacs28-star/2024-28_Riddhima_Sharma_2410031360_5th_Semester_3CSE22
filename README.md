@@ -1,5 +1,5 @@
 # Wheeltrix Data Science and Analyst Internship
-#Internship Portfolio
+## Internship Portfolio
 
 This repository documents Riddhima Sharma’s internship experience as a Data Analyst Intern at Wheeltrix. It is intended to provide a concise academic and professional record of the internship, including student information, the organization, internship role, project work, completion credential, and supporting documentation.
 
@@ -21,7 +21,7 @@ This repository contains internship documentation for academic and portfolio pur
 | Organization | **Wheeltrix** |
 | Duration | **27 June 2026 – 27 July 2026** |
 
-#About Wheeltrix
+## About Wheeltrix
 
 Wheeltrix is a growing Ed-Tech startup that develops intelligent digital solutions using AI, automation, and cloud technologies. The company focuses on delivering innovative, scalable, and secure software solutions tailored to client needs.
 
