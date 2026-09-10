@@ -58,87 +58,38 @@ The project contributed to my understanding of:
 
 ## Internship Information
 
-Item
+## Internship Information
 
-Detail
+| Item | Detail |
+|---|---|
+| Organization | Wheeltrix |
+| Designation | Data Analyst Intern |
+| Internship period | 27 June 2026 – 27 July 2026 |
+| Work arrangement | Internship |
+| Primary project | Sentiment Analysis on Movie Reviews |
+| Academic institution | IILM University, Greater Noida |
+| Academic programme | B.Tech CSE (AI/ML) |
 
-Organization
 
-Wheeltrix
-
-Designation
-
-Data Analyst Intern
-
-Internship period
-
-27 June 2026 – 27 July 2026
-
-Work arrangement
-
-Internship
-
-Primary project
-
-Sentiment Analysis on Movie Reviews
-
-Academic institution
-
-IILM University, Greater Noida
-
-Academic programme
-
-B.Tech CSE (AI/ML)
-
-Learning and Professional Development
+## Learning and Professional Development
 
 The internship provided valuable exposure to data analytics and the practical application of analytical concepts. Working on the Sentiment Analysis on Movie Reviews project helped me understand how textual data can be processed and analyzed to identify patterns and meaningful insights.
 
 The experience also contributed to the development of problem-solving, analytical thinking, documentation, time management, and professional communication skills. It helped bridge the gap between academic concepts and their practical application in a professional environment.
 
-Completion Certificate
+## Completion Certificate
 
-The repository includes the completion certificate supplied for this internship.
+| Certificate field | Detail |
+|---|---|
+| Document title | Certificate of Internship Completion |
+| Name on certificate | Riddhima Sharma |
+| Organization | Wheeltrix |
+| Internship title on certificate | Data Science & Analytics Internship |
+| Internship period | 27 June 2026 – 27 July 2026 |
+| Date on certificate | 27 July 2026 |
+| Signatory designation | Head of Event |
 
-Certificate field
-
-Detail
-
-Document title
-
-Certificate of Internship Completion
-
-Name on certificate
-
-Riddhima Sharma
-
-Organization
-
-Wheeltrix
-
-Internship title on certificate
-
-Data Science & Analytics Internship
-
-Internship period
-
-27 June 2026 – 27 July 2026
-
-Date on certificate
-
-27 July 2026
-
-Signatory designation
-
-Head of Event
-
-Certificate file
-
-Wheeltrix_completion_certificate.png
-
-The certificate confirms the successful completion of the Data Science & Analytics Internship at Wheeltrix from 27 June 2026 to 27 July 2026.
-
-Repository Contents
+## Repository Contents
 
 Wheeltrix-Internship/
 ├── README.md
@@ -153,29 +104,23 @@ If additional genuine internship materials become available, they may be added u
 
 Only genuine documents and project materials should be added to the repository. Personal information should be removed or protected before making the repository public.
 
-Academic Relevance
+## Academic Relevance
 
 This internship is relevant to my B.Tech CSE (AI/ML) programme because it provided practical exposure to data analytics and sentiment analysis. Working with movie-review data helped connect academic concepts related to data, artificial intelligence, and analytical thinking with a practical project.
 
 The experience forms part of my broader academic journey and provides a foundation for further development in data analytics, machine learning, artificial intelligence, and related technical fields.
 
-Acknowledgement
+## Acknowledgement
 
 I would like to express my sincere gratitude to Wheeltrix for providing me with the opportunity to participate in the Data Science & Analytics Internship. I am thankful for the practical exposure, learning experience, and professional development opportunities provided during the internship.
 
 I also express my gratitude to IILM University, Greater Noida and the School of Computer Science and Engineering for supporting my academic development. Finally, I am grateful to everyone who encouraged and supported me throughout this internship.
 
-Declaration
+## Declaration
 
 I confirm that the personal and internship information presented in this README has been prepared based on the details available to me and the organization-issued completion certificate. The certificate included in this repository is the document supplied for internship documentation. Any future additions to this repository should be based on genuine academic, project, or organization-issued materials.
 
-References and Official Documentation
-
-The primary source for the internship credential is the organization-issued completion certificate included in this repository:
-
-Wheeltrix_completion_certificate.png — Certificate of Internship Completion issued by Wheeltrix on 27 July 2026.
-
-Author
+## Author
 
 Riddhima Sharma
 B.Tech CSE (AI/ML), 3rd Year
